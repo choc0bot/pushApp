@@ -1,0 +1,19 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.phonegap.pushapp"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "684743449157",
+            "PACKAGE_NAME": "com.phonegap.pushapp"
+        }
+    },
+    "dependent_plugins": {}
+}
